@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoRustic
 - 👀 I’m interested in Apps, bots and server stuff
 - 🌱 I’m currently learning C# and node
-- 💞️ I’m looking to collaborate on IDK
+- 💞️ [Here is some resources that I've used](https://github.com/yoRustic/Resources)
 - ⚡ Fun fact: Made a home lab
 
 <!---
